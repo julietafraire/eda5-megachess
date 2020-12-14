@@ -1,0 +1,15 @@
+{
+  "name": "chessfraire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julieta Fraire",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.12.7",
+    "jest": "^26.6.3"
+  }
+}
